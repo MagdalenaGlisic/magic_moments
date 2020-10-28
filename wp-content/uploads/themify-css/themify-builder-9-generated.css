@@ -1,0 +1,14 @@
+/* Generated from page: kontakt */
+.themify_builder_content-9 .tb_03nh672.module_row{background-image:url(http://localhost/magicni_momenti/wordpress/wp-content/uploads/2020/10/14066245_10210550380066133_5845194315656085189_o.jpg);background-repeat:no-repeat;background-size:cover;background-attachment:scroll;background-position:50% 50%;background-color:rgba(245, 245, 245, 1);padding-top:250px;padding-bottom:150px;}
+.themify_builder_content-9 .tb_03nh672.module_row>.builder_row_cover::before,.themify_builder_content-9 .tb_03nh672.module_row>.ms-tableCell>.builder_row_cover::before{background-color:rgba(0, 0, 0, 0.40);}
+.themify_builder_content-9 .tb_st1g685.module-text{background-color:rgba(255, 255, 255, 1);background-image:none;text-align:center;padding-top:20px;padding-bottom:5px;margin-top:-40px;}
+.themify_builder_content-9 .tb_st1g685.module-text.module h1{font-size:5em;}
+.themify_builder_content-9 .tb_qqyv673.module_row{padding-bottom:8%;}
+.themify_builder_content-9 .tb_lu70687.module_column{text-align:right;padding-right:40px;border-right:1px solid rgba(227, 227, 227, 1);}
+.themify_builder_content-9 .tb_1xpz688.module-text{font-size:1.3em;line-height:1.7em;margin-bottom:50px;border-bottom:1px solid rgba(217, 217, 217, 1);}
+
+@media screen and (max-width:680px){
+.themify_builder_content-9 .tb_st1g685.module-text{text-align:center;margin:-20px;}
+.themify_builder_content-9 .tb_st1g685.module-text.module h1{font-size:2.4em;}
+.themify_builder_content-9 .tb_lu70687.module_column{text-align:left;border-right-style:none;}
+}

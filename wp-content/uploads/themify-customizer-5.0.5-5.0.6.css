@@ -1,0 +1,39 @@
+/* Themify Customize Styling */
+#headerwrap.fixed-header #site-logo a img {		width: 200px;
+	height: 92px; 
+}
+body #site-logo a img {		width: 200px;
+	height: 92px; 
+}
+#footer-logo a img {		width: 100px; 
+}
+@media screen and (max-width: 1024px) { /* Themify Customize Styling */
+#headerwrap.fixed-header #site-logo a img {		width: 200px;
+	height: 92px; 
+}
+body #site-logo a img {		width: 200px;
+	height: 92px; 
+}
+#footer-logo a img {		width: 100px; 
+}
+ }@media screen and (max-width: 768px) { /* Themify Customize Styling */
+#headerwrap.fixed-header #site-logo a img {		width: 200px;
+	height: 92px; 
+}
+body #site-logo a img {		width: 200px;
+	height: 92px; 
+}
+#footer-logo a img {		width: 100px; 
+}
+ }@media screen and (max-width: 680px) { /* Themify Customize Styling */
+#headerwrap.fixed-header #site-logo a img {		width: 200px;
+	height: 92px; 
+}
+body #site-logo a img {		width: 200px;
+	height: 92px; 
+}
+#footer-logo a img {		width: 100px; 
+}
+ }
+/* Themify Custom CSS */
+.post-date{display:none;}
